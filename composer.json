@@ -12,7 +12,7 @@
 		"php": ">7.0",
 		"nette/application": "~3.0",
 		"nette/di": "~3.0",
-		"nette/utils": "~3.0"
+		"nette/utils": "~3.0 || ~4.0"
 	},
 	"require-dev": {
 		"nette/bootstrap": "~3.0",
